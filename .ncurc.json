@@ -1,0 +1,10 @@
+{
+  "reject": [
+    "async",
+    "ini",
+    "big.js",
+    "mocha",
+    "p-queue",
+    "should"
+  ]
+}
